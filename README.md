@@ -112,6 +112,12 @@ decryptCharacter:
 
 #Testing/Results
 
+  Input: 
+  Output:
+
 #Observations/Conclusions
 
+	XOR is a valid was to decrypt a key. 
+
 #Documentation
+	Dr Coulston helped fix the linking error. Josh Hayden and Dr Coulston tried to help me fix my incrementation issue. 
